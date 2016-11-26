@@ -1,1 +1,3 @@
 # safety-mapper
+
+In the current polarized political climate, hate crimes are unfortunately on the rise. Hopefully nothing will ever happen to make you use this app, but if it does, make sure to call the police first! After you have received the help you need, take 3 quick steps to inform your friends and neighbors of what happened: drop a map pin at your location, describe yourself, and describe the altercation. All data will be anonymous. This tool is intended to just spread awareness of potentially dangerous spots in your community, and eventually, to find trends in this disturbing and unfortunate crime wave.
